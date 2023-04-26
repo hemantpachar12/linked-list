@@ -31,4 +31,5 @@ Pointer (Or Reference) to the next node (connects one node to another) or An add
 
 # output 
 ![image](https://user-images.githubusercontent.com/93450820/234489723-2577caec-0bed-400d-a85c-857d51f54e22.png)
+![image](https://user-images.githubusercontent.com/93450820/234490254-401d1745-8dcc-42ce-985d-4b7099f501bc.png)
 
