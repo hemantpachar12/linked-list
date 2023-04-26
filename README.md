@@ -28,3 +28,7 @@ Pointer (Or Reference) to the next node (connects one node to another) or An add
 ● Linked Lists can be used to implement graphs (Adjacency List representation of graph).
 
 ● Linked Lists can be used in a refined way in implementing different file systems in one form or another.
+
+# output 
+![image](https://user-images.githubusercontent.com/93450820/234489723-2577caec-0bed-400d-a85c-857d51f54e22.png)
+
